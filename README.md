@@ -1,13 +1,14 @@
 ITカレッジ沖縄アドベントカレンダー2022参加作品 「ITのお仕事について紹介します!」 になります。
 
-この 作品 は [クリエイティブ・コモンズ 表示 - 継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/) ライセンスの下に提供されています。
-
-オリジナルのドキュメントは[content.md](content.md)を参照してください。
+ブラウザで読む方は[content.md](content.md)を見てください。
 (ただ、めたくそ長すぎて読むの大変かも)
+
+きれいに整形された状態でみたい方は[content.pdf](content.pdf)をクリックしてください。Markdownでよむよりはまだちょっとはマシかも。
 
 epubでみたい場合は[content.epub](content.epub)をクリックしてください。
 好みのepubリーダーで読めるので、字を大きくしたり小さくしたり、章でジャンプしたりすることができると思います。
 
-epubなんてしゃらくさいのでPDFで読みたい方は[content.pdf](content.pdf)をクリックしてください。Markdownでよむよりはまだちょっとはマシかも。
-
 (全部pandocで変換しているだけなので中身は同じです)
+
+
+この 作品 は [クリエイティブ・コモンズ 表示 - 継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/) ライセンスの下に提供されています。
